@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """
 Author: Prem Kumar Mahato
 LinkedIn: www.linkedin.com/in/premkumarmahato
