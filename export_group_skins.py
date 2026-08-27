@@ -2,7 +2,7 @@
 Author: Prem Kumar Mahato
 LinkedIn: www.linkedin.com/in/premkumarmahato
 ArtStation: https://www.artstation.com/premkumarmahato8
-Last Updated: 22/03/2025
+Last Updated: 27/08/2025
 Version: 1.0
 
 About: Export and Import Group Skin in Maya.
