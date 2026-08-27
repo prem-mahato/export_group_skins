@@ -21,6 +21,20 @@ The exported data can later be imported to recreate the `skinCluster` and restor
 - Restore vertex weights.
 - Support multiple skinned meshes.
 
+## How To Use
+```python
+# Select one or more groups
+export_skin_ui()
+
+# Import
+import_skin_ui()
+
+# Or direct path:
+
+export_skin_from_groups("D:/skinData.json")
+import_skin("D:/skinData.json")
+```
+
 ## Use Case
 
 One use case is preparing a character skeleton for Unreal Engine.
